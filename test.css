@@ -1,0 +1,16 @@
+.aqua{color:#ecf0f1; border:solid 4px black;
+    border-bottom-color:black;
+    border-radius:25px;
+    text-align:center;
+    line-height:70px;
+    border-top-right-radius:1px;
+    border-top-left-radius:1px;
+    }
+    body {background:#16a085};
+    div {
+        width:50%;
+    
+        
+    }
+
+  div form {text-align:center;}
